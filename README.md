@@ -1,12 +1,5 @@
 ## 让我们写下，属于我们自己的故事吧
 一起
-
-![](profile-3d-contrib/profile-night-green.svg)
-
-![Jas0n326's Stats](https://github-readme-stats.vercel.app/api?username=JAS0N326&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Jas0n326C's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JASON326&theme=vue-dark&hide_border=true)
-
-
 <!--
 **JAS0N326/JAS0N326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
